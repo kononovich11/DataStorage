@@ -12,6 +12,10 @@ header {
     margin-bottom: 120px;
 }
 
+.important-color {
+    color: #212353;
+}
+
 .container-header-logo-nav {
     height: 60px;
     border: 1px solid orange;
@@ -96,7 +100,6 @@ li a {
     height: 184px;
     border: 1px solid green;
     font-size: 80px;
-    color: #212353;
 }
 
 .header-text {
@@ -152,7 +155,6 @@ li a {
 .about-title {
     height: 100px;
     font-size: 40px;
-    color: #212353;
     border: 1px solid red;
     margin-bottom: 50px;
 }
@@ -176,7 +178,6 @@ li a {
 .features-title {
     font-size: 40px;
     font-weight: bold;
-    color: #212353;
     margin-bottom: 45px;
 }
 
@@ -222,7 +223,6 @@ li a {
 
 .img-title {
     font-size: 25px;
-    color: #212353;
     margin-top: -150px;
 }
 
@@ -237,3 +237,13 @@ li a {
     margin: 20px 100px;
     text-align: start;
 }
+
+.btn-learn-img {
+    width: 140px;
+    height: 25px;
+    border: 1px solid gold;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
