@@ -195,22 +195,28 @@ li a {
     border: 1px solid black;
     margin-left: 150px;
     border-radius: 50px;
-    border-bottom: 1px ; 
-    opacity: 0.2;
+    border-bottom: 1px; 
 }
 
 .feature-1 {
-    background-color:  #68C9BA;
+    background-color: rgba(104,201,186,0.2)
 }
 
 .feature-2 {
-    background-color:  #9C69E2;
+    background-color:  rgba(156,105,226, 0.2);
 }
 
 .feature-3 {
-    background-color:  #F063B8;
+    background-color:  rgba(240,99,184,0.2);
 }
 
 .feature-4 {
-    background-color:  #2D9CDB;
+    background-color:  rgba(45,156,219, 0.2);
 }
+
+.img {
+    position: relative;
+    right: 235px;
+    top: 90px;
+} 
+
