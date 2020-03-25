@@ -229,3 +229,11 @@ li a {
 .addMargin {
     margin-top: -170px;
 }
+
+.img-text {
+    width: 220px;
+    height: 160px;
+    border: 1px solid forestgreen;
+    margin: 20px 100px;
+    text-align: start;
+}
