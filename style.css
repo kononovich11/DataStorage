@@ -220,3 +220,12 @@ li a {
     top: 90px;
 } 
 
+.img-title {
+    font-size: 25px;
+    color: #212353;
+    margin-top: -150px;
+}
+
+.addMargin {
+    margin-top: -170px;
+}
