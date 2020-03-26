@@ -63,8 +63,16 @@ header {
     padding: 0;
 }
 
+.list-nav a:hover {
+    color: #212353;
+}
+
+ul {
+    margin-left: -45px;
+}
+
 li {
-    text-decoration: none; 
+    list-style-type: none;
 }
 
 li a {
@@ -337,5 +345,31 @@ hr {
 }
 
 .ml {
-    margin-left: 150px; 
+    margin-left: 135px; 
+}
+
+.circle-grey {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #e9e9ee;
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+}
+
+.footer-social-media {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.circle-grey:hover {
+    border: 2px solid #212353;
 }
